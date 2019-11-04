@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
-    <string name="hello_blank_fragment">submit</string>
+    <string name="hello_blank_fragment">hello</string>
 </resources>
